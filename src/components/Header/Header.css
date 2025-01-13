@@ -1,0 +1,57 @@
+a {
+  color: #1D1D35;
+  text-decoration: none;
+  margin-left: 20px;
+  padding-left: 20px;
+  font-size: 20px;
+}
+.navbar-brand,
+.logo {
+  font-size: 25px;
+}
+.navbar-brand {
+  color: #303c38;
+}
+.logo {
+  color: #00adee;
+}
+.navbar .btn {
+  width: 120px;
+}
+.btn {
+  background: #00adee;
+  color: #ffffff;
+  border-radius: 150px;
+}
+.navbar-collapse {
+  padding-right: 140px;
+}
+.navbar-brand {
+  font-weight: bolder;
+}
+.navbar-collapse .nav-item .nav-link {
+  margin-left: 20px;
+  padding-left: 20px;
+  font-size: 20px;
+  color: var(--main-color);
+}
+.modal-header .modal-title {
+  margin-left: 70px;
+  color: #1d1d35;
+  font-size: 20px;
+}
+.btn-close {
+  color: #ccd2e3;
+}
+.log-in {
+  background: none;
+  border: 1px solid #00adee;
+  border-radius: 150px;
+  color: #00adee;
+  /* position: relative;
+  top: -56px;
+  left: -780px; */
+}
+button .tc{
+    color: #fff;
+}

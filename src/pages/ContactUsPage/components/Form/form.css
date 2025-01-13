@@ -1,0 +1,10 @@
+.section p {
+    font-size: 40px;
+}
+.section label {
+    color: var(--main-color);
+    font-size: 18px;
+}
+.section .btn {
+    width: 150px;
+}

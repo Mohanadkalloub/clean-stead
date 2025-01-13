@@ -1,0 +1,21 @@
+.btn {
+  width: 120px;
+}
+.content-service {
+  margin: 50px 0;
+}
+p {
+  font-size: 25px;
+  color: #7d7e82;
+  line-height: 38.62px;
+  margin-top: 20px;
+}
+.show-more {
+  background: #f2f2f2;
+  height: 2px;
+}
+.icon-show-more {
+  position: relative;
+  top: -12px;
+  font-size: 16px;
+}

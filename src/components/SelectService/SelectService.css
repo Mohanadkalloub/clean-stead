@@ -1,0 +1,16 @@
+.select-service {
+    border-radius: 16px;
+    border: 2px solid #F2F2F2;
+    background: #FFF;
+}
+button {
+    border: none;
+}
+.line-service {
+    background: #F2F2F2;
+    height: 2px;
+}
+.line-page {
+    background: #E5F7FD;
+    height: 2px;    
+}

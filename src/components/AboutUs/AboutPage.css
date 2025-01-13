@@ -1,0 +1,18 @@
+.about-button {
+    border-radius: 150px;
+    border: 1px solid #00ADEE;
+    background: #FFF;
+    color: #00ADEE;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+p {
+    font-size: 25px;
+    color: #7D7E82;
+    line-height: 38.62px;
+    margin-top: 20px;
+}
+.content-about {
+    margin: 50px 0;
+}

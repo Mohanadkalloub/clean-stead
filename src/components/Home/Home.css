@@ -1,0 +1,96 @@
+.home-page {
+    background: linear-gradient(270deg, #E5F7FD 0%, #E5F7FD 68.75%, rgba(229, 247, 253, 0) 100%);
+    font-size: 30px;
+    color: #1D1D35;
+    border-radius: 20px;
+}
+.home-page span {
+    color: #8FC930;
+}
+.home-page .lead {
+    color: #7D7E82;
+    font-size: 20px;
+}
+.home-btn {
+    background: #ffffff;
+    color: #000;
+    margin-left: 130px;
+} 
+.card-title span {
+    color: #303C38;
+    font-size: 20px;
+    margin-right: 150px;
+}
+.card-text p {
+    color: #6D6E71;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.card-text a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #00ADEE;
+}
+
+.card-title img {
+    z-index: 1000px; 
+    position: absolute;
+    right: -2px;
+    top: -50px;
+}
+.img img {
+    border-radius: 20px;
+}
+.section {
+    margin-top: 70px;
+}
+/* Rectangle sectipn start  */
+.rectangle {
+    margin-right:25px;
+    background: #E5F7FD;
+    border-radius: 12px;
+    width: 100px;
+    height: 100px;
+}
+.title {
+    font-size: 20px;
+    color: #303C38;
+}
+.text {
+    font-size: 20px;
+    color: #6D6E71;
+}    
+.rectangle-img {
+    margin: 25px 10px;
+}
+/* Rectangle section end  */
+
+/* Card Reveiew section start */
+.card-title p {
+    font-size: 20px;
+    color: #000000;
+    margin-top: 70px;
+}
+.card-text p {
+    color: #2F3239;
+    font-size: 20px;
+}
+.card-body {
+    position: relative;
+}
+.card-body .review-img {
+    position: absolute;
+    top: -70px;
+    right: 110px;
+}
+.card-body .review-top {
+    position: absolute;
+    top: 50px;
+    right: -130px;
+}
+.card-body .review-bottom {
+    position: absolute;
+    top: 270px;
+    right: 210px;
+}
+/* Card Review section end  */

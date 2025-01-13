@@ -1,0 +1,32 @@
+body {
+    background: #FFF;
+}
+.content span {
+    width: 182.455px;
+    height: 42.974px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.content {
+    margin:50px 50px 100px 0;
+}
+label {
+    width: 400px;
+}
+.form {
+    width: 350px;
+    margin-right: 380px;
+}
+.auth-btn {
+    width: 345px;
+}
+.icon {
+    position: relative;
+    top: -30px;
+    right: 20px;   
+}
+.lock {
+    position: relative;
+    top: -53px;
+    right: 310px;  
+}

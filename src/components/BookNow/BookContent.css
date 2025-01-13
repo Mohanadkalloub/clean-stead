@@ -1,0 +1,25 @@
+.number-one {
+    width: 2rem;
+    height: 2rem;
+    color: #fff;
+    background-color: #00ADEE;
+}
+.number-two , .number-three{
+    width: 2rem;
+    height: 2rem;
+    background-color: #fff;
+    border: 1px solid #C4C4C4;
+    color: #C4C4C4;
+}
+.data{
+    color: #C4C4C4;
+}
+.one-line , .two-line{
+    color: #C4C4C4;
+    background: #C4C4C4;
+    width: 115px;
+    height: 1px;
+    position: relative;
+    right:120px;
+    top: -15px;
+}

@@ -1,0 +1,9 @@
+export {default as LoginAdmin} from "./LoginAdmin"; 
+export {default as HomePage} from "./HomePage";
+export {default as AboutPage} from "./AboutPage"; 
+export {default as ServicePage} from "./ServicePage";
+export {default as ContactUsPage} from "./ContactUsPage/ContactUsPage";
+export {default as BookPageOne} from  "./BookPageOne";
+export {default as BookPageTwo} from "./BookPageTwo";
+export {default as BookPageThree} from "./BookPageThree"; 
+export {default as BookPageFour} from "./BookPageFour"; 

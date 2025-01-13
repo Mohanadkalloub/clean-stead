@@ -1,0 +1,18 @@
+.sign-up {
+    width: 100%;
+    border: none;
+    color:#fff;
+    background: #00ADEE;
+    border-radius: 50px;
+    font-size: 20px;
+}
+a button {
+    width: 50%;
+    border: none;
+    font-size: 20px;
+    background: none;
+    color: #7D7E82;
+}
+a button:hover {
+    color: #00ADEE;
+}

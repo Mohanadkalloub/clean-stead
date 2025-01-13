@@ -1,0 +1,60 @@
+.select h6 {
+    color: #C4C4C4;
+    font-size: 20px;
+}
+.line-two{
+    background: #E5F7FD;
+height: 2px;
+}
+.select-service span {
+    font-size: 20px;
+}
+.when-book {
+    font-size: 20px;
+    color: #000;
+}
+.repate-service-heading {
+    color: #1D1D35;
+    font-size: 18px;
+}
+.repate-service {
+    border-radius: 12px;
+    border: 2px solid #F2F2F2;
+    color: #7D7E82;
+    font-size: 18px;
+}
+.date-heading {
+    color: #1D1D35;
+    font-size: 18px;
+}
+.form-group {
+    width: 270px;
+}
+.calendar{
+    color:#CCD2E3;
+    position: relative;
+    left: 25px;
+    top: 8px;
+}
+.login-page-four {
+    color: #00ADEE;
+}
+.back {
+    width: 130%;
+    border-radius: 50px;
+    font-size: 20px;
+    border: 1px solid #00ADEE;
+    background: #fff;
+    color: #00ADEE;
+}
+.shdow {
+    border-radius: 20px;
+background: #FFF;
+box-shadow: 0px 8px 24px 0px rgba(0, 173, 238, 0.10);
+height:470px;
+} 
+.line-down {
+    background: #E5F7FD;
+    width: 700px;
+    height: 2px;
+}

@@ -1,0 +1,42 @@
+.box-book {
+    border-radius: 20px;
+    background: #E5F7FD;
+    width: 370px;
+    height: 375.449px;
+}
+.border-white {
+    width: 370px;
+    height: 2px;
+    background: #fff;
+}
+.box-heading {
+    color: #000;
+    font-size: 22px;
+    margin: 10px 5px;
+}
+.one p {
+    color: #7D7E82;
+    font-size : 17px;
+}
+.one h6 {
+    color: #000;
+    font-size : 18px;
+}
+.two p {
+    color: #7D7E82;
+    font-size : 17px;
+}
+.two li  {
+    margin: 0 10px;
+    font-size: 18px;
+}
+.three p {
+    color: #7D7E82;
+    font-size : 17px;
+    margin: 7px 5px;
+}
+.three h6 {
+    color: #000;
+    font-size : 18px;
+    margin: 7px 5px;
+}

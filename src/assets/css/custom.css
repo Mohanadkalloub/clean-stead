@@ -1,0 +1,14 @@
+* {
+    direction: rtl;
+    font-family: 'Avenir Arabic';
+}
+html::-webkit-scrollbar {
+    width: 8px;
+}
+html::-webkit-scrollbar-track {
+    background: white;
+}
+html::-webkit-scrollbar-thumb {
+    background: #00ADEE;
+    border-radius: 8px;
+}
